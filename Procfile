@@ -1,0 +1,1 @@
+wob: gunicorn app:app
